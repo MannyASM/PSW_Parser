@@ -1,4 +1,4 @@
-# PSW_Parser
+# PSW_Parser (HLASM)
 This tool breaks down a 8-byte PSW value into its relevant flags.
 
 Steps
