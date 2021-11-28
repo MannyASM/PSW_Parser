@@ -7,8 +7,8 @@ Steps
     2. ENTER the last 4 bytes as hex characters in D3 (e.g. 00007040)
     3. CLICK "Parse PSW" button
 
-Each bit(s) description is a hot link to more documentaion in the Doc tab.
+Each bit(s) description in column B has a link to more documentaion in the Doc tab.
+
+As always, the IBM reference manuals are the best source of info.
 
 -KMF
-
-
